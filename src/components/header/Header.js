@@ -19,7 +19,7 @@ const Header = props => {
             <nav className='navbar navbar-default navbar-fixed-top'>
                 <div className='container'>
                     <div className='navbar-header'>
-                    <button type='button' class="navbar-toggle collapsed" data-toggle='collapse' data-target='#myNavbar'>
+                    <button type='button' className='navbar-toggle collapsed' data-toggle='collapse' data-target='#myNavbar'>
                         <span className='icon-bar'></span>
                         <span className='icon-bar'></span>
                         <span className='icon-bar'></span>                        
